@@ -46,6 +46,26 @@ C • Python • ctypes • PySide6 • Matplotlib
 
 ------------------------------------------------
 
+## 📸 AeroSim in Action
+
+### Interactive Desktop Interface
+
+![AeroSim Desktop Interface](docs/screenshots/aerosim-ui.png)
+
+### Performance Analysis
+
+![L/D vs Mach](docs/screenshots/ld-vs-mach.png)
+
+### Performance Engine Validation
+
+![Performance Tests](docs/screenshots/performance-tests.png)
+
+### Mission Simulation
+
+![Mission Tests](docs/screenshots/mission-tests.png)
+
+------------------------------------------------
+
 🚧 STATUS
 
 Physics Engine       ██████████ 100%
