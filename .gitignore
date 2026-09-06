@@ -1,0 +1,60 @@
+# ==============================
+# AeroSim Git Ignore
+# ==============================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# C compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+dist/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python testing/cache
+.pytest_cache/
+
+# Generated plots / temporary output
+*.png
+*.jpg
+*.jpeg
+*.tmp
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Temporary files
+*.bak
+*.swp
+
+# AeroSim local VS Code files
+vs_code/
+
+# README export assets
+README_files/
+
+# Local VS Code files
+vs_code/
